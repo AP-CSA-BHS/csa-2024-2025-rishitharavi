@@ -1,3 +1,7 @@
+Rishitha Ravi
+CSA 2024-2025
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
